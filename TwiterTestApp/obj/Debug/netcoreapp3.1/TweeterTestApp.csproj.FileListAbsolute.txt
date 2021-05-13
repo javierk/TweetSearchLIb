@@ -1,4 +1,0 @@
-C:\Users\javier.klarman\source\repos\Github.Projects\TwiterTestApp\TwiterTestApp\obj\Debug\netcoreapp3.1\TweeterTestApp.csprojAssemblyReference.cache
-C:\Users\javier.klarman\source\repos\Github.Projects\TwiterTestApp\TwiterTestApp\obj\Debug\netcoreapp3.1\TweeterTestApp.AssemblyInfoInputs.cache
-C:\Users\javier.klarman\source\repos\Github.Projects\TwiterTestApp\TwiterTestApp\obj\Debug\netcoreapp3.1\TweeterTestApp.AssemblyInfo.cs
-C:\Users\javier.klarman\source\repos\Github.Projects\TwiterTestApp\TwiterTestApp\obj\Debug\netcoreapp3.1\TweeterTestApp.csproj.CoreCompileInputs.cache
