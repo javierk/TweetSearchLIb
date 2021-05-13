@@ -1,0 +1,11 @@
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\bin\Debug\net5.0\TweetSearchLibrary.deps.json
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\bin\Debug\net5.0\TweetSearchLibrary.dll
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\bin\Debug\net5.0\ref\TweetSearchLibrary.dll
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\bin\Debug\net5.0\TweetSearchLibrary.pdb
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\net5.0\TweetSearchLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\net5.0\TweetSearchLibrary.AssemblyInfoInputs.cache
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\net5.0\TweetSearchLibrary.AssemblyInfo.cs
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\net5.0\TweetSearchLibrary.csproj.CoreCompileInputs.cache
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\net5.0\TweetSearchLibrary.dll
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\net5.0\ref\TweetSearchLibrary.dll
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\net5.0\TweetSearchLibrary.pdb

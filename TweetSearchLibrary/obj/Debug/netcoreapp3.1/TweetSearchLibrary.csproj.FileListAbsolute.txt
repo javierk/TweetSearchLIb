@@ -6,3 +6,12 @@ C:\Users\javier.klarman\source\repos\Github.Projects\TwiterTestApp\TweetSearchLi
 C:\Users\javier.klarman\source\repos\Github.Projects\TwiterTestApp\TweetSearchLibrary\obj\Debug\netcoreapp3.1\TweetSearchLibrary.csproj.CoreCompileInputs.cache
 C:\Users\javier.klarman\source\repos\Github.Projects\TwiterTestApp\TweetSearchLibrary\obj\Debug\netcoreapp3.1\TweetSearchLibrary.dll
 C:\Users\javier.klarman\source\repos\Github.Projects\TwiterTestApp\TweetSearchLibrary\obj\Debug\netcoreapp3.1\TweetSearchLibrary.pdb
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\bin\Debug\netcoreapp3.1\TweetSearchLibrary.deps.json
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\bin\Debug\netcoreapp3.1\TweetSearchLibrary.dll
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\bin\Debug\netcoreapp3.1\TweetSearchLibrary.pdb
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\netcoreapp3.1\TweetSearchLibrary.csprojAssemblyReference.cache
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\netcoreapp3.1\TweetSearchLibrary.AssemblyInfoInputs.cache
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\netcoreapp3.1\TweetSearchLibrary.AssemblyInfo.cs
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\netcoreapp3.1\TweetSearchLibrary.csproj.CoreCompileInputs.cache
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\netcoreapp3.1\TweetSearchLibrary.dll
+C:\Users\javier.klarman\Source\Repos\Github.Projects\TweetSearchLib\TweetSearchLibrary\obj\Debug\netcoreapp3.1\TweetSearchLibrary.pdb

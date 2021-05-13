@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7bYODUk8meqaJtKFZiohm6BTGCzEYv9Dyq/3YEy5uWa3Yw6OGMe0OBrdX75oawVSTim4rIRxZe4ROcBpk+GVjA==",
+  "dgSpecHash": "I0KKj8SsUpMKzAHJiQmqkS7ZSZ90w62mLY4fehmf+cafOLDruWPz+fjFN8mHwouVlf/hnyCfvyUjwhUz4GBFQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javier.klarman\\source\\repos\\Github.Projects\\TweetSearchLibrary\\TwiterTestApp\\TweeterTestApp.csproj",
+  "projectFilePath": "C:\\Users\\javier.klarman\\Source\\Repos\\Github.Projects\\TweetSearchLib\\TwiterTestApp\\TweeterTestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\javier.klarman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

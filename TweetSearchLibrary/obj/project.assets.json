@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
+    "net5.0": {
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -43,7 +43,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
+    "net5.0": [
       "Newtonsoft.Json >= 13.0.1"
     ]
   },
@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\javier.klarman\\source\\repos\\Github.Projects\\tweetSearchLibrary\\TweetSearchLibrary\\TweetSearchLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\javier.klarman\\Source\\Repos\\Github.Projects\\TweetSearchLib\\TweetSearchLibrary\\TweetSearchLibrary.csproj",
       "projectName": "TweetSearchLibrary",
-      "projectPath": "C:\\Users\\javier.klarman\\source\\repos\\Github.Projects\\tweetSearchLibrary\\TweetSearchLibrary\\TweetSearchLibrary.csproj",
+      "projectPath": "C:\\Users\\javier.klarman\\Source\\Repos\\Github.Projects\\TweetSearchLib\\TweetSearchLibrary\\TweetSearchLibrary.csproj",
       "packagesPath": "C:\\Users\\javier.klarman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\javier.klarman\\source\\repos\\Github.Projects\\tweetSearchLibrary\\TweetSearchLibrary\\obj\\",
+      "outputPath": "C:\\Users\\javier.klarman\\Source\\Repos\\Github.Projects\\TweetSearchLib\\TweetSearchLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -71,14 +71,14 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -89,8 +89,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
